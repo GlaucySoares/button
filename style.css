@@ -1,0 +1,39 @@
+body {
+    background-color: saddlebrown;
+    font-family:sans-serif;
+    font-size: 15px;
+    color: #e99cb7;
+}
+
+
+.titulo_calda {color: beige;
+}
+
+#ordened_list {color:bisque;
+
+}
+
+.mybutton {
+width: 100px;
+height: 30px;
+border-radius: 10px;
+background-color: #e99cb7;
+color: antiquewhite;
+border-color: blueviolet;
+border-width: 3px;
+border-style:inset;
+}
+
+#tamanho1 {
+    width: 1px;
+}
+
+#tamanho2 {
+    width:1550px;
+    text-align:right;
+}
+
+#cake {
+    width: 10%;
+    height: 10%;
+}
